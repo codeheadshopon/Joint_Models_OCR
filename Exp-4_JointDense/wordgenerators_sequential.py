@@ -602,7 +602,6 @@ def decodeNewDataset(labels):
     return text
 
 
-import Modified as imagemake
 import os
 import itertools
 import codecs
